@@ -1,0 +1,27 @@
+Feature,Overall,Spring,Summer,Fall,Winter
+% of income below 100% poverty line,0.35,0.29,0.42,0.31,0.37
+Median home value,0.18,0.15,0.19,0.17,0.19
+Latitude,0.16,0.06,0.26,0.15,0.04
+% of housing units heating with electricity,0.11,0.13,0.03,0.07,0.23
+Longitude,0.09,0.12,0.05,0.05,0.18
+% of age >= 65,0.07,0.08,0.07,0.07,0.09
+% of AC adoption,0.06,0.05,0.12,0.07,0.09
+% of owners with housing costs >= 30% of income,0.05,0.04,0.08,0.04,0.05
+Enhanced vegetation index,0.04,0.05,0.03,0.03,0.04
+Nighttime lights intensity,0.04,0.03,0.06,0.04,0.04
+Heating degree days,0.04,0.02,0.13,0.03,0.02
+% of renters,0.03,0.03,0.03,0.03,0.04
+% of occupied housing units with >1 person/room,0.03,0.03,0.03,0.03,0.04
+% unemployed,0.03,0.02,0.04,0.03,0.03
+Net surface thermal radiation,0.03,0.02,0.05,0.04,0.05
+% of Hispanic,0.03,0.03,0.02,0.02,0.06
+10 m wind speed,0.02,0.01,0.02,0.02,0.03
+PM2.5,0.02,0.01,0.03,0.02,0.03
+% of Democratic votes,0.02,0.02,0.02,0.02,0.03
+Median year built,0.02,0.02,0.01,0.01,0.02
+Mean humidity,0.01,0.01,0.02,0.02,0.04
+% who do not speak English at all,0.01,0.01,0.01,0.01,0.02
+Cooling degree days,0.01,0.02,0.13,0.03,0.01
+Normalized difference built-up index,0.01,0.01,0.02,0.01,0.03
+% of African American (non-Hispanic),0.01,0.01,0.02,0.01,0.02
+% of housing units heating with solar,0.01,0.01,0.01,0.01,0.01

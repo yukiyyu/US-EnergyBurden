@@ -1,0 +1,11 @@
+Model,Sample,Residual Moran's I,Residual Z-score,Residual p-value
+XGBoost,Spring,0.11,5.48,<0.01
+XGBoost,Summer,0.06,3.02,<0.01
+XGBoost,Fall,0.12,5.94,<0.01
+XGBoost,Winter,0.08,3.84,<0.01
+XGBoost,Overall,0.08,4.38,<0.01
+G-XGBoost,Spring,0.02,1.18,0.11
+G-XGBoost,Summer,0.02,0.93,0.17
+G-XGBoost,Fall,0.01,0.79,0.21
+G-XGBoost,Winter,0.03,1.47,0.08
+G-XGBoost,Overall,0.03,1.55,0.07
